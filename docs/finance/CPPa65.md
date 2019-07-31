@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Canadian Pension Plan (65+)
 parent: Above 65+
 grandparent: Financial Support for Seniors
@@ -16,3 +17,7 @@ If you delay until age 70, you will recieve it with an increase, known as a **Po
 >Or vsit the region's Service:
 >   * Market Square Suite 200, 25 Fredrick St., Kitchener
 >   * 350 Conestoga Blvd, Unit C1, Cambridge
+
+[Back to Financial Support for ages 65+](./Above65.md){: .btn .btn-blue}
+
+[General Financial Support for Seniors](./financialhelp.md){: .btn }
