@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Energy
-parent: Financial Help for Seniors
+parent: Financial Information
 nav_order: 5
 has_toc: false
 #permalink: /docs/finance
