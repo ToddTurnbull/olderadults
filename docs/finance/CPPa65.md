@@ -2,7 +2,7 @@
 layout: default
 title: Canadian Pension Plan (65+)
 parent: Above 65+
-grandparent: Financial Support for Seniors
+grandparent: Financial Information
 nav_order: 1
 #nav_exclude: true
 ---
