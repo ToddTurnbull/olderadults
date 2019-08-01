@@ -2,7 +2,7 @@
 layout: default
 title: Canads OAS (under 65)
 parent: Below 65
-grandparent: Financial Support for Seniors
+grandparent: Financial Information
 nav_order: 2
 #nav_exclude: true
 ---
