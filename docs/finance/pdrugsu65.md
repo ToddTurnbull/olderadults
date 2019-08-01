@@ -2,7 +2,7 @@
 layout: default
 title: Prescriptions (under 65)
 parent: Below 65
-grandparent: Financial Support for Seniors
+grandparent: Financial Information
 nav_order: 3
 #nav_exclude: true
 ---
