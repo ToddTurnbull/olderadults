@@ -2,7 +2,7 @@
 layout: default
 title: Canada OAS (65+)
 parent: Above 65+
-grandparent: Financial Support for Seniors
+grandparent: Financial Information
 nav_order: 2
 #nav_exclude: true
 ---
