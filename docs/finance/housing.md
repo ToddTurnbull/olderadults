@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Housing & Utilities
-parent: Financial Help for Seniors
+parent: Financial Information
 nav_order: 6
 has_toc: false
 #permalink: /docs/finance
