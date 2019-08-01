@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Disability 
-parent: Financial Help for Seniors
+parent: Financial Information
 nav_order: 7
 has_children: true
 has_toc: false
