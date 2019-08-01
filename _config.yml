@@ -1,6 +1,6 @@
-title: Resources for Seniors
-description: Information for Seniors
-baseurl: "/seniors/" # the subpath of your site, e.g. /blog
+title: Resources for Old adults
+description: Information for old adults
+baseurl: "/oldadults/" # the subpath of your site, e.g. /blog
 url: "https://info.waterlooregion.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
