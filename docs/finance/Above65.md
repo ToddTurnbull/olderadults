@@ -11,7 +11,7 @@ has_toc: false
 # If you're age is 65+ 
 Please chose the category where you need help with:
 
-[Canada Pension Plan (CPP)(65+)](./CPPa65.md)
+[Canada Pension Plan (CPP) (65+)](./CPPa65.md)
 
 [Canada OAS (65+)](./COASa65.md)
 
@@ -28,6 +28,6 @@ Please chose the category where you need help with:
 [Community Services & Discounts](./commservice.md)
 
 
-[General Financial Support for Seniors](./financialhelp.md){: .btn }
+[General Financial Support for Old adults](./financialhelp.md){: .btn }
 
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
