@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Financial Information for old adults
+title: Financial Information
 nav_order: 2
 has_children: true
 has_toc: false
