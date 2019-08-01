@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community Services & Discounts
-parent: Financial Information for old adults
+parent: Financial Information
 nav_order: 8
 has_toc: false
 #permalink: /docs/finance
