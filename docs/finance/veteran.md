@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Veteran Resources
-parent: Financial Information for old adults
+parent: Financial Information
 nav_order: 7
 has_toc: false
 #permalink: /docs/finance
