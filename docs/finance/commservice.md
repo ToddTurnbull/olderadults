@@ -10,7 +10,7 @@ has_toc: false
 #  Financial Support for Community service and Discount Programs:
 
 - Recreation program fee assistance (**Leisure Access, Group Card**) 
-  * Apply on your municipality's [website](link to all the websites) 
+  * Apply on your municipality's [**online**](lhttps://www.waterloo.ca/en/things-to-do/assistance-programs.aspx) 
   * Or by visiting any local community centre
   ___
 - ***Personal care and support services***:
@@ -25,7 +25,7 @@ has_toc: false
 ___
 - **Community Volunteer Income Tax Program**
   * For a list of Tax Preparation Clinic locations:
-    * Visit the Canada Revenue Agency [website](link)
+    * Visit the Canada Revenue Agency [**online**](https://apps.cra-arc.gc.ca/ebci/oecv/external/prot/cli_srch_01_ld.action)
     * Call our HelpLine +1-519-579-3800
 ___
 
@@ -33,7 +33,7 @@ ___
   * **Seniors' Pass**
     * Available at Ainslie and Charles St. Terminals and most grocery stores
   * **Mobility Plus**
-    * Apply [online](link)
+    * Apply [**online**](https://www.grt.ca/en/rider-information/forms.aspx)
     * Call +1-519-585-7555
 
 *Note:* _There are is no difference in community services and discounts for Seniors above and below the age of 65_
@@ -42,6 +42,6 @@ ___
 
 [Ages BELOW 65](./Below65.md){: .btn .btn-blue}
 
-[General Financial Support for Seniors](./financialhelp.md){: .btn }
+[General Financial Support for Older adults](./financialhelp.md){: .btn }
 
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
