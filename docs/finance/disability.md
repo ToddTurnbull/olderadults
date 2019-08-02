@@ -34,4 +34,4 @@ has_toc: false
 
 [General Financial Support for Seniors](./financialhelp.md){: .btn }
 
-For all inquires contact our HelpLine +15195793800 or [email](mailto:info@waterlooregion.org)
+For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
