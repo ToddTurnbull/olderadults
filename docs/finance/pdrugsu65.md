@@ -16,3 +16,5 @@ nav_order: 3
 [Back to Financial Support for ages below 65](./Below65.md){: .btn .btn-blue}
 
 [General Financial Support for Older adults](./financialhelp.md){: .btn }
+
+For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
