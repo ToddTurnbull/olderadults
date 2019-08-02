@@ -28,7 +28,7 @@ ___
 - **Community Volunteer Income Tax Program**
   * For a list of Tax Preparation Clinic locations:
     * Visit the Canada Revenue Agency [**online**](https://apps.cra-arc.gc.ca/ebci/oecv/external/prot/cli_srch_01_ld.action)
-    * Call our HelpLine +1-519-579-3800
+    * Call our helpline +1-519-579-3800
 
 ___
 
