@@ -1,6 +1,6 @@
 # Information for Seniors
 
-https://info.waterlooregion.org/seniors/
+https://info.waterlooregion.org/olderadults/
 
 Two themes that might work for us:
 
