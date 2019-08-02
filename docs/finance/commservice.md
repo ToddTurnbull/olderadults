@@ -26,7 +26,7 @@ ___
 - **Community Volunteer Income Tax Program**
   * For a list of Tax Preparation Clinic locations:
     * Visit the Canada Revenue Agency [website](link)
-    * Call our HelpLine 519-579-3800
+    * Call our HelpLine +1-519-579-3800
 ___
 
 - ***Grand River Transit***:
