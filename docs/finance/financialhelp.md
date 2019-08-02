@@ -8,7 +8,7 @@ description: "Main page for all the information for fanacial help for seniors in
 permalink: /docs/finance
 ---
 
-# Financial Information for old adults in Waterloo region
+# Financial Information for older adults in Waterloo region
 {: .no_toc }
 
 Are you an older adult living in Waterloo Region? There are a variety of programs and resources available through different levels of government to provide income security for those who have retired or are in need financially for other reasons. Use this information page to find out which services you're eligible for to make sure you're not missing out.
