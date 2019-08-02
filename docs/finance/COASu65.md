@@ -25,4 +25,4 @@ Or vsit the region's Service:
 
 [Back to Financial Support for ages below 65](./Below65.md){: .btn .btn-blue}
 
-[General Financial Support for Old adults](./financialhelp.md){: .btn }
+[General Financial Support for Older adults](./financialhelp.md){: .btn }
