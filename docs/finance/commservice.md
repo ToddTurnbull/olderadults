@@ -10,8 +10,9 @@ has_toc: false
 #  Financial Support for Community service and Discount Programs:
 
 - Recreation program fee assistance (**Leisure Access, Group Card**) 
-  * Apply on your municipality's [**online**](lhttps://www.waterloo.ca/en/things-to-do/assistance-programs.aspx) 
+  * Apply on your municipality's [**online**](lhttps://www.waterloo.ca/en/things-to-do/assistance-programs.aspx)
   * Or by visiting any local community centre
+  
   ___
 - ***Personal care and support services***:
   * **Community Support Connections**
@@ -22,11 +23,13 @@ has_toc: false
   * **Community Care Concepts**
     * Call +1-519-664-1900
     * Visit 929 Arthur St. S, Elmira
+
 ___
 - **Community Volunteer Income Tax Program**
   * For a list of Tax Preparation Clinic locations:
     * Visit the Canada Revenue Agency [**online**](https://apps.cra-arc.gc.ca/ebci/oecv/external/prot/cli_srch_01_ld.action)
     * Call our HelpLine +1-519-579-3800
+
 ___
 
 - ***Grand River Transit***:
