@@ -7,7 +7,7 @@ nav_order: 2
 #nav_exclude: true
 ---
 
-#  Canada Old Age Security (OAS) for above 65+
+#  Canada Old Age Security (OAS) for above 65+:
 
 - If your individual annual income is less than $123,302: apply for an [**OAS pension**](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/apply.html).
 
