@@ -16,6 +16,7 @@ has_toc: false
 
 - **Disability Savings Grant**
   * Apply through your financial institution
+  
   ___
 *Grants/Tax Credits*:
 - **Ontario Home and Vehicle Modification**
