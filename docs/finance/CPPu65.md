@@ -7,7 +7,7 @@ nav_order: 1
 #nav_exclude: true
 ---
 
-# Canadian Pension Plan for ages below 65
+# Canadian Pension Plan for ages below 65:
 
 ## Canadian Pension Plan for ages *between 60 - 64*
 
