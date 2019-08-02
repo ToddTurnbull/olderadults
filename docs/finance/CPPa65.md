@@ -7,7 +7,7 @@ nav_order: 1
 #nav_exclude: true
 ---
 
-# Canadian Pension Plan for ages 65+
+# Canadian Pension Plan for ages 65+:
 
 You are eligible to recieve your full **CPP Retirement Pension**.
 
