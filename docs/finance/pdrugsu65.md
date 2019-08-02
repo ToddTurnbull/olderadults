@@ -10,9 +10,9 @@ nav_order: 3
 #  Trouble paying for Prescription Drugs (under 65):
 
 - **Ontario Trillium Drug Program** 
-  * Apply [ONLINE] LINK, visit your pharmacy
-  * call +1-800-575-5386
+  * Apply [**online**](https://www.ontario.ca/page/get-help-high-prescription-drug-costs), visit your pharmacy
+  * Call +1-800-575-5386
   
 [Back to Financial Support for ages below 65](./Below65.md){: .btn .btn-blue}
 
-[General Financial Support for Seniors](./financialhelp.md){: .btn }
+[General Financial Support for Old adults](./financialhelp.md){: .btn }
