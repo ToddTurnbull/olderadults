@@ -41,6 +41,8 @@ Main information given in the content, and 2 buttons to direct the user back to 
 
 Page covers CPP plan for ages between 60-64, and ages under 60. 
 
+Main information given in the content, and 2 buttons to direct the user back to all financial rescources for ages below and General Financial support for Old adults
+
 ## Canada Old Age Security (OAS)
 
 ### Above the age of 65+
