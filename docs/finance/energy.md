@@ -28,4 +28,4 @@ has_toc: false
 
 [Ages BELOW 65](./Below65.md){: .btn .btn-blue}
 
-[General Financial Support for Old adults](./financialhelp.md){: .btn }
+[General Financial Support for Older adults](./financialhelp.md){: .btn }
