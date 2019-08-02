@@ -12,9 +12,11 @@ has_toc: false
 - **Ontario Electricity Support Program (OESP)** - on-bill credits for lower income electricity customers
   * Apply [**online**](https://ontarioelectricitysupport.ca)
   * Through an agency such as the Social Development Centre (call +1-519-579-3800 to book an appointment)
+  
   ___
 - **Low-Income Energy Assistance Program (LEAP)** - emergency financial help for those behind on electricity and natural gas bills
   * To apply call +1-519-883-2100
+  
   ___
 - **Affordability** -  support for energy- saving upgrades for those who don't qualify for OESP or LEAP
   * Apply [**online**](https://www.oeb.ca/rates-and-your-bill/help-low-income-consumers)
