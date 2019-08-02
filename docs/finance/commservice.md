@@ -10,7 +10,7 @@ has_toc: false
 #  Financial Support for Community service and Discount Programs:
 
 - Recreation program fee assistance (**Leisure Access, Group Card**) 
-  * Apply on your municipality's [**online**](lhttps://www.waterloo.ca/en/things-to-do/assistance-programs.aspx)
+  * Apply on your municipality's website. Here's is Waterloo's [**online**] website(lhttps://www.waterloo.ca/en/things-to-do/assistance-programs.aspx)
   * Or by visiting any local community centre
   
   ___
