@@ -19,11 +19,11 @@ has_toc: false
   ___
 *Grants/Tax Credits*:
 - **Ontario Home and Vehicle Modification**
-  * Apply [online](link)
+  * Apply [**online**](https://www.marchofdimes.ca/EN/programs/hvmp/Pages/HomeandVehicle.aspx)
   * Call +1-877-369-4867
   
 - **Disability Tax Credit and Excise Gas Tax Refund**
-  * Apply [online](link)
+  * Apply [**online**](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities.html)
   * Visit Service Canada
 
 *Note:* _There are is no difference in disability financing for Seniors above and below the age of 65_
@@ -32,6 +32,6 @@ has_toc: false
 
 [Ages BELOW 65](./Below65.md){: .btn .btn-blue}
 
-[General Financial Support for Seniors](./financialhelp.md){: .btn }
+[General Financial Support for Older adults](./financialhelp.md){: .btn }
 
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
