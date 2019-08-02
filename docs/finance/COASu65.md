@@ -10,9 +10,9 @@ nav_order: 2
 
 # Canada Old Age Security (OAS) for ages between 60-64
 
-- If your spouse/common-law partner receives OAS, they're eligible for the Guarenteed Income Supplement, and you have a combined annual income of less than $33,456: apply for the **OAS Allowance** [LINK1]
+- If your spouse/common-law partner receives OAS, they're eligible for the Guarenteed Income Supplement, and you have a combined annual income of less than $33,456: apply for the [**OAS Allowance**](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement/allowance.html)
 
-- If your spouse/common-law partner has passed away, you haven't remarried or entered into a common-law relationship and your annual income is less than $23,350: apply for **OAS Allowance for the Survivor** [LINK2]
+- If your spouse/common-law partner has passed away, you haven't remarried or entered into a common-law relationship and your annual income is less than $23,350: apply for [**OAS Allowance for the Survivor**](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement/allowance-survivor.html)
 
 
 *Income = CPP Pension + Registered Retirement Saving Plans/Income Funds (RRSP/RRIF) + any other sources of income/investments*
@@ -25,4 +25,4 @@ Or vsit the region's Service:
 
 [Back to Financial Support for ages below 65](./Below65.md){: .btn .btn-blue}
 
-[General Financial Support for Seniors](./financialhelp.md){: .btn }
+[General Financial Support for Old adults](./financialhelp.md){: .btn }
