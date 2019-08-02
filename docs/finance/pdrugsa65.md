@@ -15,4 +15,4 @@ nav_order: 4
 
 [Back to Financial Support for ages 65+](./Above65.md){: .btn .btn-blue}
 
-[General Financial Support for Old adults](./financialhelp.md){: .btn }
+[General Financial Support for Older adults](./financialhelp.md){: .btn }
