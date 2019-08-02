@@ -3,10 +3,10 @@ title: Home
 nav_order: 1
 ---
 
-# Information for Old Adults
+# Information for Older Adults
 {: .no_toc }
 Are you an older adult living in Waterloo Region? 
-Please find which category of information that you're looking for.
+Please find the category of information that you're looking for below.
 
 Please choose what category you come under:
 
