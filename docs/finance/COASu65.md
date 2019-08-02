@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-# Canada Old Age Security (OAS) for ages between 60-64
+# Canada Old Age Security (OAS) for ages between 60-64:
 
 - If your spouse/common-law partner receives OAS, they're eligible for the Guarenteed Income Supplement, and you have a combined annual income of less than $33,456: apply for the [**OAS Allowance**](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement/allowance.html)
 
