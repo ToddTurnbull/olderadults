@@ -28,6 +28,6 @@ Please chose the category where you need help with:
 [Community Services & Discounts](./commservice.md)
 
 
-[General Financial Support for Seniors](./financialhelp.md){: .btn }
+[General Financial Support for Older adults](./financialhelp.md){: .btn }
 
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
