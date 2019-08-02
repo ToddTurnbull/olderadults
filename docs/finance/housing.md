@@ -16,13 +16,16 @@ has_toc: false
   * Or Apply Region office 
     * 99 Regina St. S, Waterloo
     * 150 Main St, Cambridge
+    
   ___
+  
 - **Region of Waterloo Utility Bill Help** - grant to help those behind on utility bills (once per year, per household)
   * If you receive Ontario Works contact your caseworker
-  * Otherwise call 519-883-2100
+  * Otherwise call +1-519-883-2100
+  
   ___
 - **Ontario Renovates** - loans for house upkeep or to install accessibility features
-  * Apply [online](link)
+  * Apply [**online**](https://showmethegreen.ca/home/home-improvement/ontario-renovates-program/)
   * Call +1-519-575-4400
 
 *Note:* _There are is no difference in housing and utilities financing for Seniors above and below the age of 65_
@@ -31,4 +34,4 @@ has_toc: false
 
 [Ages BELOW 65](./Below65.md){: .btn .btn-blue}
 
-[General Financial Support for Seniors](./financialhelp.md){: .btn }
+[General Financial Support for Old adults](./financialhelp.md){: .btn }
