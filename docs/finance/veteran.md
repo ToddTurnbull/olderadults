@@ -11,12 +11,14 @@ has_toc: false
 
 If you have a medical condition or disability and are able to prove it is related to your Canadian military service apply for:
 - **Veterans Disability Pension and Disability Award**
-  * Apply [online](link) using your VAC account
+  * Apply [**online**](https://www.veterans.gc.ca/eng/services/after-injury/disability-benefits/how-to-apply) using your VAC account
   * Or call +1-866-522-2122
+  
   ___
 - **Ontario Soldiers Aid Commission**
   * Visit a Royal Canadian Legion Branch
   * Otherwise call +1-416-327-4674
+  
   ___
 - **Grand River Transit Veterans Transit Pass (65+)**
   * Call +1-519-585-7597 ext. 7279
@@ -27,6 +29,6 @@ If you have a medical condition or disability and are able to prove it is relate
 
 [Ages BELOW 65](./Below65.md){: .btn .btn-blue}
 
-[General Financial Support for Seniors](./financialhelp.md){: .btn }
+[General Financial Support for Older adults](./financialhelp.md){: .btn }
 
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
