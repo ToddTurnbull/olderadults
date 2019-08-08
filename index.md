@@ -10,13 +10,15 @@ Please find the category of information that you're looking for below.
 
 Please choose what category you come under:
 
-- [Financial Help](./docs/finance/financialhelp.md)
+- [Age Specific Financial Help](./docs/finance/financialhelp.md)
 
 
 
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
 
 ---
+
+# General Financial Information
 
 ## Table of contents
 {: .no_toc .text-delta }
