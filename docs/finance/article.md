@@ -1,3 +1,12 @@
+---
+layout: default
+title: Article of Financial Information for old adults
+has_toc: false
+nav_exclude: true
+description: "Main page for all the information for fanacial help for seniors in the Waterloo region"
+permalink: /docs/finance
+---
+
 # Financial Resources for Older Adults in the Waterloo Region
 
 According to the [2016 Cencus Bulletin](https://www.regionofwaterloo.ca/en/resources/Census/Census-Bulletin-1-Population-Age-and-Sex-access.pdf) for the Waterloo Region, 1 in 7 individuals in the region was above 65 years old. The number of older adults are slowing increasing in the region and so the region provides many resources to help them in whatever they need. In particular, there are a vast variety of financial resources available to older adults.
