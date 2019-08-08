@@ -15,6 +15,7 @@ nav_order: 2
 	* You are single/widowed/divorced and your annual income is less than $18,096 Your spouse/common-law partner receives a full OAS pension and your combined annual income is less than $23,094
 	* Your spouse/common-law partner either receives no OAS pension at all or only receives the Allowance and your combined annual income is less than $43,392
 
+**Additional Information** - More information can be found at the [Steps to Justice - OAS for seniors](https://stepstojustice.ca/questions/income-assistance/i’m-senior-can-i-get-old-age-security-oas) page. 
 
 *Income = CPP Pension + Registered Retirement Saving Plans/Income Funds (RRSP/RRIF) + any other sources of income/investments*
 
