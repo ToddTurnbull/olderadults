@@ -1,15 +1,13 @@
 title: Resources for Older Adults
 description: Information for older adults
-baseurl: "/olderadults/" # the subpath of your site, e.g. /blog
+baseurl: "/olderadults" # the subpath of your site, e.g. /blog
 url: "https://info.waterlooregion.org" # the base hostname & protocol for your site, e.g. http://example.com
-
-permalink: pretty
 
 collections_dir: collections
 collections:
   programs:
     output: true
-    permalink: /programs/:path/
+    permalink: /:collection/:path/ # https://jekyllrb.com/docs/permalinks/#collections
 
 defaults:
   -
