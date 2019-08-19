@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h1>Topics</h1>
+{% for topic in site.topics %}
+  <h2>{{ topic.title }}</h2>
+
+  {% assign programs = site.programs | where: "topics", topic.topic %}
+  {% for program in programs %}
+    <h3><a href="{{site.baseurl }}{{ program.url }}">{{ program.title }}</a></h3>
+  {% endfor %}
+
+{% endfor %}
+
