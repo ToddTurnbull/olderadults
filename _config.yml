@@ -8,6 +8,8 @@ collections:
   programs:
     output: true
     permalink: /:collection/:path/ # https://jekyllrb.com/docs/permalinks/#collections
+  topics:
+    output: false
 
 defaults:
   -
