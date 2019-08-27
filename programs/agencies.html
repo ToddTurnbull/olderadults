@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<h1>Agencies</h1>
+{% for agency in site.agencies %}
+  <h2>{{ agency.title }}</h2>
+
+  <p>Filter by program.agency</p>
+
+  {% assign programs = site.programs | where: "agency", agency.slug %}
+  {% for program in programs %}
+    <h3><a href="{{site.baseurl }}{{ program.url }}">{{ program.title }}</a></h3>
+  {% endfor %}
+
+  <p>Filter by agency.programs</p>
+
+  {% for slug in agency.programs %}
+      {% assign program = site.programs | where: "slug", slug | first %}
+        <h3><a href="{{site.baseurl }}{{ program.url }}">{{ program.title }}</a></h3>
+  {% endfor %}
+
+{% endfor %}
+

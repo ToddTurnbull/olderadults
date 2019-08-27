@@ -5,6 +5,8 @@ url: "https://info.waterlooregion.org" # the base hostname & protocol for your s
 
 collections_dir: collections
 collections:
+  agencies:
+    output: false
   programs:
     output: true
     permalink: /:collection/:path/ # https://jekyllrb.com/docs/permalinks/#collections

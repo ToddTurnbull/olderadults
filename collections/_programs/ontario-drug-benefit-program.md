@@ -3,6 +3,8 @@ title: Ontario Drug Benefit Program
 phone: 1-888-405-0405
 website: https://www.ontario.ca/page/get-coverage-prescription-drugs
 description: Get help paying for prescription drugs
+slug: ontario-drug-benefit-program
+agency: ministry-of-health
 topics:
   - drugs
 ---
